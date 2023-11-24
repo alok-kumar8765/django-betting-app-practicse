@@ -1,0 +1,1 @@
+# django-betting-app-practicse
